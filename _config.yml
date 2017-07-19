@@ -172,3 +172,7 @@ cnzz_statistics_tracking_id: 1253608568
 # Facebook Like
 facebook_like: true
 
+
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
